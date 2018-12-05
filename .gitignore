@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.ckpt
+*.tar.gz
+models/
+models/*
