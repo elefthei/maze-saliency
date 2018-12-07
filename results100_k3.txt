@@ -1,0 +1,9 @@
+{
+    "random": 0.27666666666666667,
+    "smoothgrad": 0.31666666666666665,
+    "smoothgrad_backprop": 0.37,
+    "smoothgrad_integr": 0.4633333333333333,
+    "vanilla": 0.23333333333333334,
+    "vanilla_backprop": 0.16666666666666666,
+    "vanilla_integr": 0.2966666666666667
+}
